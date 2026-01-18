@@ -1,3 +1,8 @@
+
+
+
+
+
 import java.util.Scanner;
 public class GeometriHesap {
     public static double calculateSquareArea(double side){
